@@ -1,0 +1,2 @@
+c:\users\318122246\source\repos\CorrecaoProva\CorrecaoProva\obj\Debug\CorrecaoProva.csprojAssemblyReference.cache
+c:\users\318122246\source\repos\CorrecaoProva\CorrecaoProva\obj\Debug\CorrecaoProva.csproj.CoreCompileInputs.cache
